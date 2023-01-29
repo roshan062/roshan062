@@ -1,16 +1,13 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**roshan062/roshan062** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**Actively looking for the open source opportunity.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working as full stack web developer.
+- 🌱 I’m currently learning Typescript and Next.js
+- 👯 I’m looking to collaborate on any open source mern stack projects.
+- 🤔 I’m looking for help to land me on a project.
+- 💬 Ask me about anything you want. 🤣
+- 📫 How to reach me: roshanprasas062@gmail.com
+- ⚡ Fun fact: Apple were originally designing an apple shaped flip phone.
+
