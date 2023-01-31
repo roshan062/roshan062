@@ -5,10 +5,10 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-- :computer: I'm a `full stack web developer`.
-- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure
-- :rocket: Always ready to collaborate for Dev Experiments
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge"
+- :computer: I'm a `full stack web developer.`
+- :hourglass_flowing_sand: Exploring Google Cloud & Microsoft Azure.
+- :rocket: Always ready to collaborate for Dev Experiments.
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge".
 - :zap: Fun fact: Apple were originally designing an apple shaped flip phone.
 
 ```diff
